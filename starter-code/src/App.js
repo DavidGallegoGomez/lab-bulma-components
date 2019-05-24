@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Signup from "../components/Signup";
 import Message from "../components/Message";
+import './App.css';
 
 class App extends Component {
   render(){

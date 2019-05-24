@@ -2,7 +2,7 @@ import React from 'react';
 
 const Message = (props) => (
   <div className="container">
-   <article className="message">
+   <article className="message my-message">
       <div className="message-header">
         <p>Hello World</p>
         <button className="delete" aria-label="delete"></button>
